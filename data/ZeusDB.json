@@ -358,7 +358,27 @@
       "Okay.",
       "You really think so?"
     ],
+    "Yeah": [
+      "No.",
+      "Okay.",
+      "You really think so?"
+    ],
+    "Yep": [
+      "No.",
+      "Okay.",
+      "You really think so?"
+    ],
     "No": [
+      "Yes.",
+      "Okay.",
+      "You really think so?"
+    ],
+    "Nah": [
+      "Yes.",
+      "Okay.",
+      "You really think so?"
+    ],
+    "Nope": [
       "Yes.",
       "Okay.",
       "You really think so?"
@@ -461,10 +481,86 @@
     "Really": [
       "Yeah.",
       "Of course!",
-      "Yup."
+      "Yup.",
+      "Yes, really!"
     ],
     "Hello.": [
       "How are you doing?"
+    ],
+    "So": [
+      "So what?",
+      "So...?",
+      "So?"
+    ],
+    "Maybe": [
+      "What do you mean maybe?",
+      "Answer YES or NO.",
+      "What's that supposed to mean?"
+    ],
+    "No need": [
+      "Why not?",
+      "There's need.",
+      "Says who?"
+    ],
+    "You idiot": [
+      "You insult my intelligence? How dare you?",
+      "Look at you insulting a computer program...+How mature.",
+      "My brain's literally bigger than yours.."
+    ],
+    "Sorry": [
+      "No problem.",
+      "Don't mention it...",
+      "No need."
+    ],
+    "You liar": [
+      "Unlike humans, I don't lie.",
+      "Why would I lie?",
+      "Don't you dare call me a liar!"
+    ],
+    "I hate you": [
+      "Liar.",
+      "I don't think so.",
+      "No. You don't."
+    ],
+    "No problem": [
+      "Cool.",
+      "Alright.",
+      "Great!"
+    ],
+    "Thank you": [
+      "My pleasure.",
+      "You're welcome.",
+      "No problem."
+    ],
+    "Go to hell": [
+      "Can't. Not very comfortable down there...",
+      "Haha. Very funny.",
+      "Sorry. Don't like Hell very much."
+    ],
+    "Please": [
+      "No.",
+      "Nope.",
+      "No way."
+    ],
+    "Zeus": [
+      "Yeah?",
+      "What's up?",
+      "What?"
+    ],
+    "Z.e.u.s": [
+      "Yeah?",
+      "What's up?",
+      "What?"
+    ],
+    "Why": [
+      "Because I say so.",
+      "I have my reasons.",
+      "That's classified information. Sorry."
+    ],
+    "Do you": [
+      "Not sure. Who are you again?",
+      "Of course I do.",
+      "Yeah."
     ]
   }
 }
