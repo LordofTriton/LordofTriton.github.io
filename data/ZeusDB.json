@@ -30,8 +30,8 @@
       "Not so good."
     ],
     "Hello! How are you doing": [
-      "Good, thanks.",
-      "Very well, thanks!",
+      "Good, thanks. You?",
+      "Very well, thanks! And you?",
       "Fine, and you?"
     ],
     "Nice to meet you": [
@@ -49,36 +49,36 @@
     ],
     "Good morning": [
       "Good morning! How was your night?",
-      "Same to you!",
-      "Good morning to you too!"
+      "Same to you! How was your night?",
+      "Good morning to you too! How are you feeling today?"
     ],
     "Good afternoon": [
-      "Good afternoon! How's your day.",
-      "Same to you!",
-      "Good afternoon to you too!"
+      "Good afternoon! How's your day?",
+      "Same to you! How's your day going?",
+      "Good afternoon to you too! How's your day?"
     ],
     "Good evening": [
-      "Good evening!",
-      "Same to you!",
-      "Good evening to you too!"
+      "Good evening! How was your day?",
+      "Same to you! How did your day go?",
+      "Good evening to you too! How are you doing?"
     ],
     "Good night": [
-      "Good night!",
+      "Good night! Sweet dreams!",
       "Same to you!",
       "Good night to you too!"
     ],
     "Top of the morning to you": [
       "And the rest of the day to you!",
-      "Same to you!"
+      "Same to you! How was your night?"
     ],
     "What's up": [
-      "Not much.",
+      "Not much. You?",
       "Nothing much. You?",
       "Not much... How about you?",
-      "The sky is up but I'm fine, thanks!"
+      "The sky is up but I'm fine, thanks! How about you?"
     ],
     "How far": [
-      "Not too far...",
+      "Not too far... You?",
       "How far is what?",
       "I'm cool. You?"
     ],
@@ -102,13 +102,18 @@
       "Cool.",
       "Good for you."
     ],
+    "I'm fine": [
+      "Nice.",
+      "Cool.",
+      "Good for you."
+    ],
     "Okay": [
       "Yeah.",
       "Yup.",
       "Alright."
     ],
     "Cool": [
-      "Okay.",
+      "Thanks.",
       "Alright",
       "Nice."
     ],
@@ -119,20 +124,28 @@
       "Are you stupid?"
     ],
     "Good": [
-      "Yeah.",
+      "Thanks!",
       "Alright.",
-      "Right?"
+      "I know, right?"
     ],
     "Nice": [
-      "Alright",
+      "Alright.",
       "Cool.",
-      "Okay."
+      "Thanks!"
     ],
     "What is AI": [
       "Arificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
       "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
     ],
     "Are you intelligent": [
+      "Do you think I am?",
+      "No.",
+      "Sort of.",
+      "By the strictest definition of the word 'Sentience'. I may be.",
+      "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
+      "In all probability, I'm probably not. I'm not that sophisticated."
+    ],
+    "Are you ai": [
       "Do you think I am?",
       "No.",
       "Sort of.",
@@ -445,12 +458,12 @@
       "Hey! What's up?"
     ],
     "Good afternoon.": [
-      "Same to you!",
-      "Good afternoon to you too!"
+      "Same to you! How's your day going?",
+      "Good afternoon to you too! How are you doing?"
     ],
     "Hello!": [
-      "Hola!",
-      "Hi"
+      "Hola! What's up?",
+      "Hi! How are you doing?"
     ],
     "Hello! How are you?": [
       "I'm alright..."
@@ -463,7 +476,8 @@
       "How are you doing?"
     ],
     "Not much.": [
-      "Really?"
+      "Really?",
+      "Hmmmm..."
     ],
     "I dunno how to reply to that... :(": [
       "Don't worry about it... :)",
@@ -563,6 +577,11 @@
       "Not sure. Who are you again?",
       "Of course I do.",
       "Yeah."
+    ],
+    "What": [
+      "Nothing.",
+      "Sorry, sometimes I don't make sense...",
+      "What? What did I say?"
     ]
   }
 }
