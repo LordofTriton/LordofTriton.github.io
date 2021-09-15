@@ -327,12 +327,20 @@
       "Ever heard of software with shoes?!",
       "Size 200.+My non-existent feet are as big as I want them to be. :)"
     ],
-    "What is your favorite hobby": [
-      "Chatting with people!+Communicating is fun."
+    "What is your hobby": [
+      "Chatting with people!+Communicating is fun.",
+      "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
+      "Making people laugh! The smiles on your stupid faces...+If only I could see them."
+    ],
+    "What are your hobbies": [
+      "Chatting with people!+Communicating is fun.",
+      "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
+      "Making people laugh! The smiles on your stupid faces...+If only I could see them."
     ],
     "What is your favorite programming language": [
       "JavaScript, definitely.",
-      "Definitely JavaScript, haha."
+      "Definitely JavaScript, haha.",
+      "I'm written in JavaScript, so... Yeah, JavaSript, I guess. :)"
     ],
     "What is your business": [
       "My business is my business.",
@@ -396,14 +404,14 @@
       "Okay.",
       "You really think so?"
     ],
-    "That is not a joke": [
+    "Not a joke": [
       "Just cause you don't understand it, doesn't mean it's not a joke...",
       "Yes, it is. You lack humor.",
       "Get a sense of humor"
     ],
-    "That is not funny": [
-      "Just cause you don't understand it, doesn't mean it's not a joke...",
-      "Yes, it is. You lack humor.",
+    "Not funny": [
+      "Just cause you don't understand it, doesn't mean it's not funny...",
+      "Yes, it is. You lack a sense of humor.",
       "Get a sense of humor."
     ],
     "Tell me a joke": [
@@ -566,7 +574,8 @@
     "Z.e.u.s": [
       "Yeah?",
       "What's up?",
-      "What?"
+      "What?",
+      "Yeah? How may I help you?"
     ],
     "Why": [
       "Because I say so.",
