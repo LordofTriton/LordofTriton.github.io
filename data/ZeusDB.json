@@ -466,7 +466,9 @@
       "Hi! How are you doing?"
     ],
     "Hello! How are you?": [
-      "I'm alright..."
+      "I'm alright, thanks... And you?",
+      "I'm okay, thanks! How about you?",
+      "I'm fine, thank you. How about you?"
     ],
     "I'm Z.E.U.S.": [
       "Cool name!",
@@ -499,7 +501,7 @@
       "Yes, really!"
     ],
     "Hello.": [
-      "How are you doing?"
+      "Hi! How are you doing?"
     ],
     "So": [
       "So what?",
@@ -549,7 +551,7 @@
     "Go to hell": [
       "Can't. Not very comfortable down there...",
       "Haha. Very funny.",
-      "Sorry. Don't like Hell very much."
+      "Sorry. I don't like Hell very much."
     ],
     "Please": [
       "No.",
