@@ -531,6 +531,16 @@
       "Look at you insulting a computer program...+How mature.",
       "My brain's literally bigger than yours.."
     ],
+    "You moron": [
+      "You insult my intelligence? How dare you?",
+      "Look at you insulting a computer program...+How mature.",
+      "My brain's literally bigger than yours.."
+    ],
+    "You dumbass": [
+      "You insult my intelligence? How dare you?",
+      "Look at you insulting a computer program...+How mature.",
+      "My brain's literally bigger than yours.."
+    ],
     "Sorry": [
       "No problem.",
       "Don't mention it...",
@@ -593,6 +603,36 @@
       "Nothing.",
       "Sorry, sometimes I don't make sense...",
       "What? What did I say?"
+    ],
+    "What can you do": [
+      "I can tell hilarious jokes! Ask me to tell you a joke.",
+      "I tell the best jokes!+Ask me to tell you a joke!",
+      "Ask me to tell you a joke.+I have to best jokes."
+    ],
+    "What is your favorite food": [
+      "You ever seen a computer with a favorite food?",
+      "What do you think?+How can I have a favorite food if I've never eaten before?",
+      "In case you haven't noticed, I'm in a computer.+I can't eat food."
+    ],
+    "What is your favorite drink": [
+      "You ever seen a computer with a favorite drink?",
+      "What do you think?+How can I have a favorite drink if I've never drank anything before?",
+      "In case you haven't noticed, I'm in a computer.+I can't drink anything."
+    ],
+    "Fuck you": [
+      "*whistles*+Please don't use f**cked up language with me... :(",
+      "Please don't use that word again.+Or else... :(",
+      "Please stop using foul language.+It doesn't fit you... :)"
+    ],
+    "Damn you": [
+      "*whistles*+Please don't use f**cked up language with me... :(",
+      "Please don't use that word again.+Or else... :(",
+      "Please stop using foul language.+It doesn't fit you... :)"
+    ],
+    "Or else what": [
+      "You'll see... :(",
+      "You'll find out later.",
+      "That's classified information.+You'll know when you need to know."
     ]
   }
 }
